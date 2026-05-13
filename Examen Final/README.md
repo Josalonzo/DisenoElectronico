@@ -1,7 +1,9 @@
 <div align="center">
   <img src="Fotos/logoUNIS.png" alt="Logo UNIS" width="180"/>
   <h1>FPGA Custom Board — OrCAD PCB Design</h1>
-  <p><em>Universidad del Istmo · Facultad de Ingeniería · Diseño Electrónico</em></p>
+  <p><em>Universidad del Istmo · Facultad de Ingeniería</em></p>
+  <p><em>Ingeniería en Electrónica y Telecomunicaciones · 5to Año</em></p>
+  <p><em>José Alonzo</em></p>
 </div>
 
 ---
@@ -79,7 +81,7 @@ El diseño siguió el flujo estándar de dos etapas de OrCAD X:
 
 El esquemático completo fue capturado en **OrCAD X Capture CIS**. Esta herramienta integra el *Component Information System*, permitiendo gestionar los componentes desde una base de datos centralizada, generar el BOM automáticamente y asegurar que todos los símbolos tengan footprints verificados antes de transferir el diseño al PCB Editor.
 
-![Esquemático](Fotos/ESq.png)
+![Esquemático](Fotos/ESQ.png)
 
 ---
 
