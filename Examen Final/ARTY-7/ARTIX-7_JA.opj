@@ -1,0 +1,349 @@
+(ExpressProject "artix-7_JA"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S010 (4374085)  [11/23/2025]-[05/11/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence_circuits\library1.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\artix-7_ja.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Allegro Netlist Output Board File" ".\allegro\artix-7_ja.brd")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{MPN}\t{JLCPCB Part#}\t{PCB Footprint}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tPart\tManufacturer Part Number\tJLCPCB Number\tPCB Footprint")
+    (BOM_Include_File "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\artix-7_ja.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\artix-7_ja.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\artix-7_ja_output\bom.sch.csv"
+      (Type "Report")
+      (DisplayName ".\ARTIX-7_JA_OUTPUT\BOM.SCH.CSV"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\artix-7_ja.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "c:\users\joser\onedrive\escritorio\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "c:\users\joser\onedrive\escritorio\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "c:\users\joser\onedrive\escritorio\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "c:\users\joser\onedrive\escritorio\allegro\genfeed.log")))
+  (MPSSessionName "Joser")
+  (PartMRUSelector
+    (ESD9X5P0ST5G
+      (FullPartName "ESD9X5P0ST5G.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1777176366\ORCADCAPTUREXML\ESD9X5.0ST5GOSTR-ND.OLB")
+      (DeviceIndex "0"))
+    (ABM3-25P000MHZ-D2Y-T
+      (FullPartName "ABM3-25P000MHZ-D2Y-T.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1777161899\ORCADCAPTUREXML\535-10645-2-ND.OLB")
+      (DeviceIndex "0"))
+    (AP2303MPTR-G1
+      (FullPartName "AP2303MPTR-G1.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1776801860\AP2303MPTR-G1\CAPTURE\AP2303MPTR-G1.OLB")
+      (DeviceIndex "0"))
+    (DSC6111CI2A-012P0000T
+      (FullPartName "DSC6111CI2A-012P0000T.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1775948753\ORCADCAPTUREXML\DSC6111CI2A-012.0000T-ND.OLB")
+      (DeviceIndex "0"))
+    (93LC56BT-IOT
+      (FullPartName "93LC56BT-IOT.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1775948456\ORCADCAPTUREXML\93LC56BT-I_OTTR-ND.OLB")
+      (DeviceIndex "0"))
+    (MT41K128M16JT-125_XIT
+      (FullPartName "MT41K128M16JT-125_XIT.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1775946333\MT41K128M16JT-125_XIT\CAPTURE\MT41K128M16JT-125_XIT.OLB")
+      (DeviceIndex "0"))
+    (04023A220JAT2A
+      (FullPartName "04023A220JAT2A.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1775945545\04023A220JAT2A\CAPTURE\04023A220JAT2A.OLB")
+      (DeviceIndex "0"))
+    (ABM3-25P000MHZ-B2-T
+      (FullPartName "ABM3-25P000MHZ-B2-T.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1775939866\ORCADCAPTUREXML\535-9108-1-ND.OLB")
+      (DeviceIndex "0"))
+    (DP83848JSQ_NOPB
+      (FullPartName "DP83848JSQ_NOPB.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1775939347\DP83848JSQ_NOPB\CAPTURE\DP83848JSQ_NOPB.OLB")
+      (DeviceIndex "0"))
+    (08B0-1X1T-36-F
+      (FullPartName "08B0-1X1T-36-F.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1775939192\08B0-1X1T-36-F\CAPTURE\08B0-1X1T-36-F.OLB")
+      (DeviceIndex "0"))
+    (DP83848JSQNOPB
+      (FullPartName "DP83848JSQNOPB.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1775938310\ORCADCAPTUREXML\DP83848JSQ_NOPBDKR-ND.OLB")
+      (DeviceIndex "0"))
+    (TAJA104K035RNJ
+      (FullPartName "TAJA104K035RNJ.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1775924277\TAJA104K035RNJ\CAPTURE\TAJA104K035RNJ.OLB")
+      (DeviceIndex "0"))
+    (C0603C104K3RACTU
+      (FullPartName "C0603C104K3RACTU.Normal")
+      (LibraryName
+         "C:\USERS\JOSER\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1775804694\ORCADCAPTUREXML\399-C0603C104K3RACTUTR-ND.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("POWER JACK"
+      (FullPartName "POWER JACK.Normal")
+      (LibraryName "C:\CADENCE_CIRCUITS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("RCA JACK"
+      (FullPartName "RCA JACK.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BEL-08B0-1X1T-36-F
+      (FullPartName "BEL-08B0-1X1T-36-F.Normal")
+      (LibraryName "C:\CADENCE_CIRCUITS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 8X2"
+      (FullPartName "HEADER 8X2.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BIDIR
+      (LibraryName "C:\CADENCE_CIRCUITS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (EVQQ2B03W
+      (FullPartName "EVQQ2B03W.Normal")
+      (LibraryName "C:\CADENCE_CIRCUITS\LIBRARY2.OLB")
+      (DeviceIndex "0"))
+    (JS102011SAQN
+      (FullPartName "JS102011SAQN.Normal")
+      (LibraryName "C:\CADENCE_CIRCUITS\LIBRARY2.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_25.1\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\joser\onedrive\escritorio\artix-7_ja.dsn")
+      (Path "Design Resources"
+         "c:\users\joser\onedrive\escritorio\artix-7_ja.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "c:\cadence_circuits\library1.olb")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "c:\users\joser\onedrive\escritorio\artix-7_ja.dsn" "SCHEMATIC1"
+         "13 CHipKIT IO"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 777"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "-334 -5")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "13 CHipKIT IO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "-334 -5")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04 FPGA POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "-334 -5")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03 CONFIG SPI FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "292 179")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "10 LCD + 7 SEGMENTS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "413 31")
+        (Zoom "102")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "07 USB PROG/UART"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "1397 648")
+        (Zoom "184")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05 ETHERNET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "52 361")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "12 LEDs"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "-283 0")
+        (Zoom "53")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "11 PMOD, BTN, SWTs"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 795")
+        (Scroll "-334 -5")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 FPGA BANKS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 795")
+        (Scroll "-51 406")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "09 POWER REGULATION V2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 795")
+        (Scroll "-273 71")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "06 DDR3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 795")
+        (Scroll "-273 71")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "08 POWER REGULATION"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 795")
+        (Scroll "-328 -6")
+        (Zoom "101")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "00 TOC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 795")
+        (Scroll "5791 2836")
+        (Zoom "912")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSER\ONEDRIVE\ESCRITORIO\ARTIX-7_JA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01 BLOCK DIAGRAM"))))
