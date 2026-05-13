@@ -1,7 +1,9 @@
 <div align="center">
   <img src="Fotos/logoUNIS.png" alt="Logo UNIS" width="180"/>
   <h1>FPGA Custom Board — OrCAD PCB Design</h1>
-  <p><em>Universidad del Istmo · Facultad de Ingeniería · Diseño Electrónico</em></p>
+  <p><em>Universidad del Istmo · Facultad de Ingeniería</em></p>
+  <p><em>Ingeniería en Electrónica y Telecomunicaciones · 5to Año</em></p>
+  <p><em>José Alonzo</em></p>
 </div>
 
 ---
